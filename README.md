@@ -1,2 +1,2 @@
 # TestLabInAzure
-Create a test labe, ansible server, windows domain, some test servers and workstations
+Create a test lab, ansible server, windows domain, some test servers and workstations
